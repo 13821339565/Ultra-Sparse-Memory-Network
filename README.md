@@ -10,6 +10,9 @@
   <a href="https://arxiv.org/pdf/2411.12364">
     <img alt="Paper URL" src="https://img.shields.io/badge/arxiv-2411.12364-blue">
   </a>
+  <a href="https://arxiv.org/pdf/2508.18756">
+    <img alt="Paper URL" src="https://img.shields.io/badge/arxiv-2508.18756-blue">
+  </a>
 </p>
 
 
@@ -117,6 +120,14 @@ sh launch.sh ${CONFIG_PATH} \
 You can also pick the code to your own project, it should be easy to run : ）
 ## Citing
 If you find this work helpful or use it in your research, please consider citing our paper:
+```bibtex
+@article{huang2025ultra,
+  title={UltraMemV2: Memory Networks Scaling to 120B Parameters with Superior Long-Context Learning},
+  author={Zihao Huang, Yu Bao, Qiyang Min, Siyan Chen, Ran Guo, Hongzhi Huang, Defa Zhu, Yutao Zeng, Banggu Wu, Xun Zhou, Siyuan Qiao},
+  journal={Arxiv},
+  year={2025}
+}
+```
 ```bibtex
 @article{huang2024ultra,
   title={Ultra-Sparse Memory Network},
